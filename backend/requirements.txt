@@ -3,9 +3,5 @@ uvicorn
 pandas
 scikit-learn
 joblib
-transformers
-torch
 pydantic
-opencv-python-headless
-Pillow
-pyzbar
+pillow
