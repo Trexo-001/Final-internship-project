@@ -6,6 +6,6 @@ joblib
 transformers
 torch
 pydantic
-opencv-python
+opencv-python-headless
 Pillow
 pyzbar
